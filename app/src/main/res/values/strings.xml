@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">LastDicoding</string>
+
+    <string-array name="data_name">
+        <item>Robert Budi Hartono</item>
+        <item>Low Tuck Kwong</item>
+        <item>Michael Hartono</item>
+        <item>Pragojo Pangestu</item>
+        <item>Sri Pakash Lohia</item>
+        <item>Dato Sri Tahir</item>
+        <item>Chairul Tanjung</item>
+        <item>Lim Hariyanto Wijaya Sarwono</item>
+        <item>Djoko Susanto</item>
+        <item>Dewi Kam</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Robert Budi Hartono adalah seorang pengusaha sukses asal Indonesia. Ia dikenal sebagai salah satu pendiri Djarum Group, yang meliputi berbagai bisnis seperti rokok, perkebunan, properti, dan perbankan. Djarum Group telah menjadi salah satu perusahaan terkemuka di Indonesia dan telah berkembang menjadi salah satu dari beberapa konglomerat besar di negara tersebut. Grup Djarum memiliki berbagai bisnis di Indonesia, termasuk: Perusahaan rokok: Djarum, Djarum Black, dan Super Mild Bank: Bank Central Asia (BCA) Investasi: PT Sinar Mas Multiartha Tbk, PT HM Sampoerna Tbk, dan PT MNC Investama Tbk Properti: PT Intiland Development Tbk, PT Alam Sutera Realty Tbk, dan PT Pakuwon Jati Tbk</item>
+        <item>Low Tuck Kwong merupakan pendiri dan pemilik PT Bayan Resources, perusahaan tambang batu bara terbesar di Indonesia. Bayan Resources juga merupakan salah satu perusahaan tambang batu bara terbesar di dunia.Selain tambang batu bara, Low Tuck Kwong juga memiliki bisnis di bidang energi, melalui kepemilikannya di Golden Eagle Energy. Golden Eagle Energy merupakan perusahaan yang bergerak dalam bidang eksplorasi dan produksi minyak dan gas bumi. Low Tuck Kwong memiliki berbagai bisnis di Indonesia, termasuk: Perusahaan tambang: PT Bayan Resources, PT Berau Coal Energy Tbk, dan PT Indotambangraya Megah Tbk Perusahaan energi: Golden Eagle Energy Investasi: PT Bayan Resources Tbk dan PT Berau Coal Energy Tbk</item>
+        <item>Michael Hartono adalah salah satu pendiri Djarum Group, bersama dengan saudaranya Robert Budi Hartono. Seperti saudaranya, Michael terlibat dalam pengelolaan berbagai bisnis yang dimiliki oleh Djarum Group, yang termasuk dalam industri rokok, perkebunan, properti, dan perbankan.</item>
+        <item>Prajogo Pangestu adalah seorang pengusaha sukses yang memiliki kepentingan bisnis di berbagai sektor, termasuk pertambangan, energi, dan properti. Ia adalah pendiri dan pemilik perusahaan Barito Pacific yang memiliki investasi besar dalam industri sumber daya alam di Indonesia. </item>
+        <item>Sri Prakash Lohia adalah pendiri dan pemilik Indorama Corporation, sebuah perusahaan multinasional yang bergerak di berbagai sektor, termasuk tekstil, kimia, dan polimer. Melalui perusahaannya, Lohia telah memainkan peran penting dalam pengembangan industri tekstil dan kimia di Indonesia. Indorama Corporation memiliki berbagai bisnis di Indonesia, termasuk: Perusahaan tekstil: Indorama Synthetics Tbk, Indorama Polymers Tbk, dan Indorama Ventures Indonesia Tbk Perusahaan kimia: Indorama Ventures Olefins dan Polymers Tbk, Indorama Ventures Polypropylene Tbk, dan Indorama Ventures Acrylics Tbk Perusahaan polimer: Indorama Ventures Performance Fibers Tbk</item>
+        <item>Dato Sri Tahir adalah seorang pengusaha Indonesia yang memiliki bisnis di berbagai sektor, termasuk perbankan, investasi, dan properti. Dia telah dikenal sebagai salah satu pengusaha sukses di Indonesia dan memiliki peran penting dalam pengembangan sektor keuangan. Mayapada Group memiliki berbagai bisnis di Indonesia, termasuk: Bank: Bank Mayapada Investasi: Mayapada Healthcare, Mayapada Capital, dan Mayapada Foundation Properti: Mayapada Tower, Mayapada Hospital, dan Mayapada Hotel</item>
+        <item>Chairul Tanjung adalah seorang pengusaha dan politikus Indonesia yang memiliki bisnis di berbagai sektor, termasuk media, ritel, keuangan, dan properti. Dia dikenal sebagai pendiri CT Corp, sebuah konglomerat yang memiliki kepentingan di berbagai bidang industri utama di Indonesia. CT Corp memiliki berbagai bisnis di Indonesia, termasuk: Media: Trans Media, Trans Corp, dan Trans7 Ritel: Transmart Carrefour, Trans Fashion, dan Trans Studio Mall Keuangan: Bank Mega, Bank Capital, dan Asuransi Mega Properti: CT Corp Property, Hotel Trans Luxury, dan The Trans Luxury Residence</item>
+        <item>Lim Hariyanto Wijaya Sarwono adalah seorang pengusaha sukses yang memiliki kepentingan bisnis di berbagai sektor, termasuk properti, perhotelan, dan pertanian. Melalui investasinya, ia telah berkontribusi pada pertumbuhan ekonomi di Indonesia, terutama dalam sektor properti dan perhotelan. Perkebunan Sawit - Bumitama Agri: Kelola 230.000 hektare perkebunan sawit di Kalimantan, dan operasikan 14 pabrik CPO. Pertambangan Bauksit - PT Cita Mineral Investindo Tbk: Investasi besar untuk pabrik alumina. Pertambangan Nikel - PT Trimegah Bangun Persada:  Bisnis Lain: Kemitraan pertambangan batu bara, Bisnis di sektor perkayuan, Keterlibatan dalam sektor real estate.</item>
+        <item>Djoko Susanto adalah seorang pengusaha yang memiliki bisnis di sektor perkebunan, pertambangan, dan properti. Dia dikenal karena kepemilikan dan operasi perusahaan yang bergerak dalam produksi dan distribusi berbagai komoditas pertanian di Indonesia.</item>
+        <item>Dewi Kam adalah seorang pengusaha wanita yang memiliki investasi di berbagai sektor, termasuk ritel, properti, dan manufaktur. Melalui usahanya, Dewi Kam telah memainkan peran penting dalam mendukung pertumbuhan ekonomi di Indonesia, terutama dalam sektor ritel dan manufaktur. Itulah sejumlah nama yang masuk dalam daftar orang terkaya di Indonesia. Dari daftar di atas kita bisa mengetahui bahwa orang paling kaya di Indonesia seluruhnya merupakan pengusaha yang memiliki bisnis di berbagai bidang. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/d1</item>
+        <item>@drawable/d2</item>
+        <item>@drawable/d3</item>
+        <item>@drawable/d4</item>
+        <item>@drawable/d5</item>
+        <item>@drawable/d6</item>
+        <item>@drawable/d7</item>
+        <item>@drawable/d8</item>
+        <item>@drawable/d9</item>
+        <item>@drawable/d10</item>
+    </integer-array>
+
 </resources>
