@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.damarazka.lastdicoding"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.damarazka.lastdicoding"
