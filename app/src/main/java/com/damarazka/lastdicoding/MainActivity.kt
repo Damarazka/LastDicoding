@@ -1,7 +1,9 @@
 package com.damarazka.lastdicoding
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.LayoutManager
@@ -18,7 +20,9 @@ class MainActivity : AppCompatActivity() {
 
         list.addAll(getListPersons())
         showRecyclerList()
+
     }
+
 
     private fun getListPersons(): ArrayList<Person> {
         val dataName = resources.getStringArray(R.array.data_name)
@@ -36,5 +40,13 @@ class MainActivity : AppCompatActivity() {
         rvPersons.layoutManager = LinearLayoutManager(this)
         val listAdapter = ListAdapter(list)
         rvPersons.adapter = listAdapter
+
+        listAdapter.setOnItemClickCallback(object : ListAdapter.OnItemClickCallBack {
+            override fun onItemClicked(data: Person) {
+                val intentToDetail = Intent(this@MainActivity, DetailActivity::class.java)
+                intentToDetail.putExtra("Data",data)
+                startActivity(intentToDetail)
+            }
+        })
     }
 }
