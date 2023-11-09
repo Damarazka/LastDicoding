@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">LastDicoding</string>
+    <string name="about">About</string>
+    <string name="myName">Damarazka Akhyari</string>
+    <string name="myEmail">damarazka22@gmail.com</string>
+    <string name="bio">Junior Software Developer | Student at SMK IDN Boarding School</string>
 
     <string-array name="data_name">
         <item>Robert Budi Hartono</item>
