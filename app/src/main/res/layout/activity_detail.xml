@@ -35,4 +35,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tv_detail_name"
         android:layout_margin="16dp"/>
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/money"
+        app:layout_constraintTop_toBottomOf="@id/tv_detail_description"
+        android:alpha="0.5"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
